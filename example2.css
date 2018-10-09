@@ -1,0 +1,7 @@
+.parent{
+ background: tomato;  font-size: 2em;  width: 200px;
+}
+
+.parent .child{
+     background: lime;
+}

@@ -1,0 +1,12 @@
+p:nth-child(1){
+    font-size: 4vh;
+}
+p:nth-child(2){
+    font-size: 4vw;
+}
+p:nth-child(3){
+    font-size: 4vmin;
+}
+p:nth-child(4){
+    font-size: 4vmax;
+}
